@@ -16,5 +16,9 @@ class Saucedemo:
         return "secret_sauce"
 
     @staticmethod
+    def unregister_user_name():
+        return "unregister_user"
+
+    @staticmethod
     def inventory_page_url():
         return "https://www.saucedemo.com/inventory.html"

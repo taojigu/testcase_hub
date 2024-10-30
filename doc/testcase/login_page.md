@@ -5,11 +5,11 @@
 1. https://www.saucedemo.com/
    - username:standard_user
    - password:secret_sauce
-1. https://opensource-demo.orangehrmlive.com/
-1. https://the-internet.herokuapp.com/login
-1.  https://parabank.parasoft.com/parabank/index.htm
-1.  https://www.testyou.in/Login.aspx
-2. https://reqres.in/  api test
+2. https://opensource-demo.orangehrmlive.com/
+3. https://the-internet.herokuapp.com/login
+4. https://parabank.parasoft.com/parabank/index.htm
+5. https://www.testyou.in/Login.aspx
+6. https://reqres.in/  api test
 
 # Test cases for https://www.saucedemo.com/
 
@@ -28,7 +28,7 @@
   - Homepage: https://www.saucedemo.com/inventory.html
 - **Expected Result**: User is logged in successfully and redirected to the homepage.
 -----
-- ## Test Case 2: Verify ogin with unregistered username
+- ## Test Case 2: Verify login with unregistered username
 - **Test Case ID**: TC_LOGIN_02
 - **Priority**: High
 - **Test Type**: Functional
